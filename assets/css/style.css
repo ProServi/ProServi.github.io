@@ -67,6 +67,11 @@ ul
   margin: 25px;
 }
 
+#ulCustom{
+  background: none !important;
+  color: black !important;
+}
+
 #siteName
 {
 
