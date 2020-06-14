@@ -70,6 +70,7 @@ ul
 #ulCustom{
   background: none !important;
   color: black !important;
+  padding-left: 20px;
 }
 
 #siteName
